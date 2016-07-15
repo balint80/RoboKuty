@@ -77,3 +77,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.d
+Libs/Arduino/libcore.a_
+
+# Misc
+# =========================
+Debug/
+Libs/
+ArduinoMega2560/
+.settings
+.*
